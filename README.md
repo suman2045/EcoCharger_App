@@ -18,7 +18,7 @@ A cross-platform mobile application built with **React Native** that helps Elect
 # 📸 Preview
 
 <p align="center">
-<img src="screenshots/ev7.jpg" width="850">
+<img src="Screenshots/ev7.jpg" width="250" height = "350">
 </p>
 
 ---
@@ -225,13 +225,13 @@ npm run ios
 ## Splash Screen
 
 <p align="center">
-<img src="screenshots/ev1.jpg" width="250">
+<img src="Screenshots/ev1.jpg" width="250">
 </p>
 <p align="center">
-<img src="screenshots/ev2.jpg" width="250">
+<img src="Screenshots/ev2.jpg" width="250">
 </p>
 <p align="center">
-<img src="screenshots/ev3.jpg" width="250">
+<img src="Screenshots/ev3.jpg" width="250">
 </p>
 
 ---
@@ -239,7 +239,7 @@ npm run ios
 ## Login Screen
 
 <p align="center">
-<img src="screenshots/ev6.jpg" width="250">
+<img src="Screenshots/ev6.jpg" width="250">
 </p>
 
 ---
@@ -247,10 +247,10 @@ npm run ios
 ## Signup Screen
 
 <p align="center">
-<img src="screenshots/ev4.jpg" width="250">
+<img src="Screenshots/ev4.jpg" width="250">
 </p>
 <p align="center">
-<img src="screenshots/ev5.jpg" width="250">
+<img src="Screenshots/ev5.jpg" width="250">
 </p>
 
 ---
@@ -258,7 +258,7 @@ npm run ios
 ## Home Screen
 
 <p align="center">
-<img src="screenshots/ev7.jpg" width="250">
+<img src="Screenshots/ev7.jpg" width="250">
 </p>
 
 ---
@@ -266,7 +266,7 @@ npm run ios
 ## Tips Screen
 
 <p align="center">
-<img src="screenshots/ev15.jpg" width="250">
+<img src="Screenshots/ev15.jpg" width="250">
 </p>
 
 ---
@@ -274,7 +274,7 @@ npm run ios
 ## Charging Station List
 
 <p align="center">
-<img src="screenshots/ev12.jpg" width="250">
+<img src="Screenshots/ev12.jpg" width="250">
 </p>
 
 ---
@@ -282,14 +282,14 @@ npm run ios
 ## Charging Station Details
 
 <p align="center">
-<img src="screenshots/ev13.jpg" width="250">
+<img src="Screenshots/ev13.jpg" width="250">
 </p>
 ---
 
 ## Add Charging Station
 
 <p align="center">
-<img src="screenshots/ev14.jpg" width="250">
+<img src="Screenshots/ev14.jpg" width="250">
 </p>
 
 ---
@@ -297,10 +297,10 @@ npm run ios
 ## User Profile
 
 <p align="center">
-<img src="screenshots/ev9.jpg" width="250">
+<img src="Screenshots/ev9.jpg" width="250">
 </p>
 <p align="center">
-<img src="screenshots/ev11.jpg" width="250">
+<img src="Screenshots/ev11.jpg" width="250">
 </p>
 
 ---
